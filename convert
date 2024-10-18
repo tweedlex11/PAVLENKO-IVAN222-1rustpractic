@@ -12,6 +12,6 @@ fn print_envelope(size: usize) {
 }
 
 fn main() {
-    let size = 12; 
+    let size = 30; 
     print_envelope(size);
 }
