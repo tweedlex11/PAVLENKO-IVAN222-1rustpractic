@@ -1,4 +1,4 @@
-1.
+1.test
 fn simple_array_sum(arr: Vec<i32>) -> i32 {
     arr.iter().sum()
 }
