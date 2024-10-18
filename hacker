@@ -18,3 +18,5 @@ fn main() {
     let result = simple_array_sum(arr);
     println!("{}", result);
 }
+
+2.test
